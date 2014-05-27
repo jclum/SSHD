@@ -1,0 +1,85 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-04-21T15:44:19-04:00
+Notes: 0
+Binaries: 1
+Archives: 0
+Standards: 47
+
+Apache Licensed: 47
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/pom.xml
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/Handle.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/BaseReply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/FileAttributes.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/SshFxpAttrsReply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/SshFxpDataReply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/SshFxpHandleReply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/SshFxpNameReply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/SshFxpStatusReply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/reply/SshFxpVersionReply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/Reply.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/BaseRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpCloseRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpFsetstatRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpFstatRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpInitRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpLstatRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpMkdirRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpOpendirRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpOpenRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpReaddirRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpReadRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpRealpathRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpRemoveRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpRenameRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpRmdirRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpSetstatRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpStatRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/SshFxpWriteRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/request/UnsupportedRequest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/Request.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/Sftplet.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/SftpSession.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/subsystem/BaseHandle.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/subsystem/DefaultSftpletContainer.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/subsystem/DirectoryHandle.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/subsystem/FileHandle.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/subsystem/Serializer.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/subsystem/SftpConstants.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/main/java/org/apache/sshd/sftp/subsystem/SftpSubsystem.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/test/java/org/apache/sshd/sftp/SftpTest.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/test/java/org/apache/sshd/sftp/util/BogusPasswordAuthenticator.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/test/java/org/apache/sshd/sftp/util/EchoShellFactory.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/test/java/org/apache/sshd/sftp/util/JSchLogger.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/test/java/org/apache/sshd/sftp/util/SimpleUserInfo.java
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/test/java/org/apache/sshd/sftp/util/Utils.java
+  B     /Users/clumjo/BAH/sshd/sshd-sftp/src/test/resources/hostkey.pem
+  AL    /Users/clumjo/BAH/sshd/sshd-sftp/src/test/resources/log4j.properties
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

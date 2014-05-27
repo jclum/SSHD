@@ -1,0 +1,44 @@
+Manifest-Version: 1.0
+Built-By: clumjo
+Build-Jdk: 1.7.0_25
+Specification-Title: Apache Mina SSHD :: SFTP
+Specification-Version: 0.11.1-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Mina SSHD :: SFTP
+Implementation-Version: 0.11.1-SNAPSHOT
+Implementation-Vendor-Id: org.apache.sshd
+Implementation-Vendor: The Apache Software Foundation
+Created-By: 1.7.0_25 (Oracle Corporation)
+Export-Package: org.apache.sshd.sftp;uses:="org.apache.sshd.common.fil
+ e,org.apache.sshd.sftp.subsystem,org.apache.sshd.common";version="0.1
+ 1.1.SNAPSHOT",org.apache.sshd.sftp.reply;uses:="org.apache.sshd.sftp,
+ org.apache.sshd.sftp.subsystem,org.apache.sshd.common.file";version="
+ 0.11.1.SNAPSHOT",org.apache.sshd.sftp.request;uses:="org.apache.sshd.
+ sftp,org.apache.sshd.sftp.subsystem,org.apache.sshd.common.file";vers
+ ion="0.11.1.SNAPSHOT",org.apache.sshd.sftp.subsystem;uses:="org.apach
+ e.sshd.sftp,org.apache.sshd.common.file,org.apache.sshd.common.util,o
+ rg.apache.sshd.common,org.apache.sshd.sftp.reply,org.apache.sshd.sftp
+ .request,org.slf4j,org.apache.sshd.server,org.apache.sshd.server.chan
+ nel,org.apache.sshd.server.session";version="0.11.1.SNAPSHOT"
+Tool: Bnd-0.0.311
+Bundle-Name: Apache Mina SSHD :: SFTP
+Bundle-Vendor: The Apache Software Foundation
+Bundle-Version: 0.11.1.SNAPSHOT
+Bnd-LastModified: 1401152059096
+Bundle-ManifestVersion: 2
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-Description: The Apache Software Foundation provides support fo
+ r the Apache community of open-source software projects.    The Apach
+ e projects are characterized by a collaborative, consensus based deve
+ lopment process, an open and    pragmatic software license, and a des
+ ire to create high quality software that leads the way in its field. 
+    We consider ourselves not simply a group of projects sharing a ser
+ ver, but rather a community of developers    and users.
+Import-Package: org.apache.sshd.common;version="[0.11,1)",org.apache.s
+ shd.common.file;version="[0.11,1)",org.apache.sshd.common.util;versio
+ n="[0.11,1)",org.apache.sshd.server;version="[0.11,1)",org.apache.ssh
+ d.server.channel;version="[0.11,1)",org.apache.sshd.server.session;ve
+ rsion="[0.11,1)",org.slf4j;version="[1.6,2)"
+Bundle-SymbolicName: org.apache.sshd.core
+Bundle-DocURL: http://www.apache.org/
+

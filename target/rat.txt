@@ -1,0 +1,51 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-04-21T15:44:09-04:00
+Notes: 3
+Binaries: 1
+Archives: 0
+Standards: 10
+
+Apache Licensed: 10
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  N     LICENSE.txt
+  N     NOTICE.txt
+  AL    pom.xml
+  AL    src/legal/notices.xml
+  AL    sshd-git/pom.xml
+  N     sshd-git/README.txt
+  AL    sshd-git/src/main/java/org/apache/sshd/git/GitCommand.java
+  AL    sshd-git/src/main/java/org/apache/sshd/git/GitCommandFactory.java
+  AL    sshd-git/src/test/java/org/apache/sshd/git/GitServerTest.java
+  AL    sshd-git/src/test/java/org/apache/sshd/git/util/BogusPasswordAuthenticator.java
+  AL    sshd-git/src/test/java/org/apache/sshd/git/util/EchoShellFactory.java
+  AL    sshd-git/src/test/java/org/apache/sshd/git/util/Utils.java
+  B     sshd-git/src/test/resources/hostkey.pem
+  AL    sshd-git/src/test/resources/log4j.properties
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

@@ -1,0 +1,12 @@
+Manifest-Version: 1.0
+Built-By: clumjo
+Build-Jdk: 1.7.0_25
+Specification-Title: Apache Mina SSHD :: PAM
+Specification-Version: 0.11.1-SNAPSHOT
+Specification-Vendor: The Apache Software Foundation
+Implementation-Title: Apache Mina SSHD :: PAM
+Implementation-Version: 0.11.1-SNAPSHOT
+Implementation-Vendor-Id: org.apache.sshd
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Maven Integration for Eclipse
+

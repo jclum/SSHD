@@ -1,0 +1,49 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-04-21T15:44:37-04:00
+Notes: 3
+Binaries: 0
+Archives: 0
+Standards: 9
+
+Apache Licensed: 9
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /Users/clumjo/BAH/sshd/assembly/pom.xml
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/descriptors/unix-bin.xml
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/descriptors/unix-src.xml
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/descriptors/windows-bin.xml
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/descriptors/windows-src.xml
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/distribution/bin/ssh.bat
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/distribution/bin/ssh.sh
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/distribution/bin/sshd.bat
+  AL    /Users/clumjo/BAH/sshd/assembly/src/main/distribution/bin/sshd.sh
+  N     /Users/clumjo/BAH/sshd/assembly/src/main/distribution/LICENSE.txt
+  N     /Users/clumjo/BAH/sshd/assembly/src/main/distribution/NOTICE.txt
+  N     /Users/clumjo/BAH/sshd/assembly/src/main/distribution/README.txt
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 

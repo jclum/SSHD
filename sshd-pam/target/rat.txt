@@ -1,0 +1,39 @@
+
+*****************************************************
+Summary
+-------
+Generated at: 2014-04-21T15:44:18-04:00
+Notes: 0
+Binaries: 0
+Archives: 0
+Standards: 2
+
+Apache Licensed: 2
+Generated Documents: 0
+
+JavaDocs are generated and so license header is optional
+Generated files do not required license headers
+
+0 Unknown Licenses
+
+*******************************
+
+Unapproved licenses:
+
+
+*******************************
+
+Archives:
+
+*****************************************************
+  Files with Apache License headers will be marked AL
+  Binary files (which do not require AL headers) will be marked B
+  Compressed archives will be marked A
+  Notices, licenses etc will be marked N
+  AL    /Users/clumjo/BAH/sshd/sshd-pam/pom.xml
+  AL    /Users/clumjo/BAH/sshd/sshd-pam/src/main/java/org/apache/sshd/server/pam/PAMPasswordAuthenticator.java
+ 
+*****************************************************
+ Printing headers for files without AL header...
+ 
+ 
